@@ -1,4 +1,4 @@
-# Deterministic finite automaton 🔍
+# Deterministic finite automaton
 
 ## Description
 Implementation of a **deterministic automaton**.

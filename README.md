@@ -42,7 +42,7 @@ Explanation: Since the initial state is q1, the string reaches the accepting sta
 
 ---
 
-# Autómata finito determinista🔍
+# Autómata finito determinista
 
 ## Descripción
 Implementación de un  **autómata determinista**.
